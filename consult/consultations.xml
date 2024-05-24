@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<consults>
+  <consult id="1">
+    <name>Marinduque State Collage's Guidance and Counseling Office</name>
+    <services>Select a service and request an appoinment</services>
+    <location>Tanza, Boac, Marinduque</location>
+    <phone>09967730994</phone>
+    <email>mscguidance@yahoo.com</email>
+    <facebook>https://www.facebook.com/mscgcocares21</facebook>
+    <website>https://www.mscmarinduque.edu.ph/guidance-and-counseling/</website>
+    <book_appointment>Go to Facebook page, and click about then click services' see all, then select your preferred time to be guidance and consult</book_appointment>
+  </consult>
+  
+</consults>
